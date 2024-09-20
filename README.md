@@ -27,7 +27,7 @@ Java Version: Java SE 8 or later
 IDE: You can use IntelliJ IDEA, Eclipse, or any other Java-compatible IDE.
 Command Line: Alternatively, you can compile and run the project using the command line.
 
-# Future Enhancements:
+# Future Enhancements
 Adding more third-party payment gateways like Stripe or Square using their respective adapters.
 Implementing error handling and retries for failed payments.
 Adding support for international currencies and payment methods.
